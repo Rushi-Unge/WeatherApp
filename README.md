@@ -8,7 +8,7 @@ https://weather-app-1react.vercel.app/
 
 ## 📸 Preview
 
-![Weather App Preview](./"C:\Users\unger\OneDrive\Documents\Pictures\Screenshots\Screenshot 2025-07-10 010615.png")
+![Weather App Preview](./public/screenshot.png)
 
 ---
 
