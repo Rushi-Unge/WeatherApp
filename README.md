@@ -3,10 +3,12 @@
 A sleek, fully responsive Weather App built using **React + Vite**, styled with **Tailwind CSS**, and powered by the **OpenWeatherMap API**. Users can search for any city to view real-time weather details, including temperature, conditions, wind, humidity, visibility, sunrise, sunset, and more.
 
 ---
+# Live Link
+https://weather-app-1react.vercel.app/
 
 ## 📸 Preview
 
-![Weather App Preview](./screenshot.png)
+![Weather App Preview](./"C:\Users\unger\OneDrive\Documents\Pictures\Screenshots\Screenshot 2025-07-10 010615.png")
 
 ---
 
